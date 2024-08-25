@@ -1,0 +1,1 @@
+This project is based on real time chat . In this users can join rooms to chat and in a single room many users can join and chat in real time .We have used react ,html ,javascript for the front end.The backend is powered by node express and javascript .For real time chat connection socket io is used
